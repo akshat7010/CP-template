@@ -10,17 +10,16 @@ typedef tree<int, null_type, less_equal<int>, rb_tree_tag, tree_order_statistics
 const int MAX_N = 1e5 + 5;
 const int MAX_L = 20; // ~ Log N
 const long long MOD = 1e9 + 7;
-const long long INF = 1e9 + 7;
 
 typedef long long ll;
 typedef vector<int> vi;
-typedef pair<int,int> ii;
-typedef vector<ii> vii;
-typedef vector<vi> vvi;
+typedef pair<int,int> pii;
+typedef vector<pii> vpii;
+typedef vector<vi> vii;
 typedef vector<ll> vl;
 typedef vector<vl> vll;
-typedef pair<ll,ll> pl;
-typedef vector<pl> vpl;
+typedef pair<ll,ll> pll;
+typedef vector<pl> vpll;
 typedef set<ll> sl;
 typedef set<int> si;
 
