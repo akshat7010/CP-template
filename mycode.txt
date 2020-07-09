@@ -41,9 +41,7 @@ int main() {
         freopen("output.txt", "w", stdout);
     #endif
 
-    int tc; cin >> tc;
-    for (int t = 1; t <= tc; t++) {
-        //cout << "Case #" << t  << ": ";
+    ll t; cin >> t;
+    while(t--) 
         solve();
-    }
 }
