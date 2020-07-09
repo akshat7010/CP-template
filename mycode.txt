@@ -19,7 +19,7 @@ typedef vector<vi> vii;
 typedef vector<ll> vl;
 typedef vector<vl> vll;
 typedef pair<ll,ll> pll;
-typedef vector<pl> vpll;
+typedef vector<pll> vpll;
 typedef set<ll> sl;
 typedef set<int> si;
 
