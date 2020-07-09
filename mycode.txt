@@ -26,6 +26,14 @@ typedef set<int> si;
 
 #define LSOne(S) (S & (-S))
 #define isBitSet(S, i) ((S >> i) & 1)
+#define ld long double
+#define pb push_back
+#define mp make_pair
+#define all(v) v.begin(),v.end()
+#define F first
+#define S second
+#define si size()
+#define bk back()
 
 
 
